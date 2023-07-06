@@ -10,7 +10,7 @@ To use this project, you'll need the following software installed on your system
 
 ## Installation
 1. Install the Requests library for Python by running the following command:
-```
+```python
 pip install requests
 ```
 
